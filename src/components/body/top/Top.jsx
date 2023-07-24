@@ -61,7 +61,7 @@ const Top = () => {
             <div className="imgDiv">
               <img src={Plants} alt="Image name" />
             </div>
-            {/* <div className="sideBarCard">
+            <div className="sideBarCard">
               <BsQuestionCircle className="icon" />
               <div className="cardContent">
                 <div className="circle1"></div>
@@ -73,7 +73,7 @@ const Top = () => {
                 </p>
                 <button className="btn">Go to help center</button>
               </div>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
